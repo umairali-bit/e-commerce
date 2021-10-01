@@ -12,7 +12,7 @@ The challenge was to build the back end for an e-commerce site. I took a working
 
 # Installation 
 
-Packages required for this application are as follows
+Follwoing packages are required for this application are as follows
 * Node
  * Express
  * MySQL2 
