@@ -21,7 +21,7 @@ Follwoing packages are required for this application are as follows
 
  # DataBase
 
-Created a .env file and have the name of the database, username and password set in this file. Downloaded dotenv package in the connection.js file (config folder), connected the database to the root of the project. Ran source of the database by running schema file in MySql shell. 
+Created a .env file and have the name of the database, username and password set in this file. Downloaded dotenv package in the connection.js file (config folder), connected database to the root of the project. Ran source of the database by running schema file in MySql shell. 
 
 # Demonstration
 * [Click here to see the demonstaration of Categories table](https://watch.screencastify.com/v/whDYtNYgoUJ2CHvsGonj)
