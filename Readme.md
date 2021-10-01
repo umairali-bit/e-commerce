@@ -6,6 +6,7 @@ The challenge was to build the back end for an e-commerce site. I took a working
 # Table of Contents:
 * [Installation](#installation)
 * [DataBase](#database)
+* [Demonstration](#demonstration)
 * [Credits](#credits)
 * [License](#license)
 * [Questions](#questions)
