@@ -24,9 +24,9 @@ Packages required for this application are as follows
 Created a .env file and have the name of the database, username and password set in this file. Downloaded dotenv package in the connection.js file (config folder), connected the database to the root of the project. Ran source of the database by running schema file in MySql shell. 
 
 # Demonstration
-* [Click here to see the demonstaration of Categories table](https://watch.screencastify.com/v/whDYtNYgoUJ2CHvsGonj)
-* [Click here to see the demonstaration of Tags table](https://watch.screencastify.com/v/7XbSsgrg45zUWhJRzyHw)
-* [Click here to see the demonstaration of Products table](https://watch.screencastify.com/v/SYSw5BKnmXBZ1v9aD5JK)
+* [Click here to see the demonstration of the Categories table](https://watch.screencastify.com/v/whDYtNYgoUJ2CHvsGonj)
+* [Click here to see the demonstration of the Tags table](https://watch.screencastify.com/v/7XbSsgrg45zUWhJRzyHw)
+* [Click here to see the demonstration of the Products table](https://watch.screencastify.com/v/SYSw5BKnmXBZ1v9aD5JK)
  
 
 

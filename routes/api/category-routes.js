@@ -51,7 +51,8 @@ router.put('/:id', (req, res) => {
   })
     .then((dbCategory) => {
       if (dbCategory) {
-        res.status(200).json({ message: 'CATEGORY UPDATED!' });
+        res.status(200).json(dbCategory)
+        //{ message: 'CATEGORY UPDATED!' });
         return;
       }
     })
